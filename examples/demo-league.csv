@@ -1,0 +1,10 @@
+type;id;name;home_team_id;away_team_id;home_score;away_score;played_on
+TEAM;aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa;Falcons;;;;;
+TEAM;bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb;Wolves;;;;;
+TEAM;cccccccc-cccc-4ccc-8ccc-cccccccccccc;Panthers;;;;;
+TEAM;dddddddd-dddd-4ddd-8ddd-dddddddddddd;Titans;;;;;
+MATCH;11111111-1111-4111-8111-111111111111;;aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa;bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb;95;87;2026-10-24
+MATCH;22222222-2222-4222-8222-222222222222;;cccccccc-cccc-4ccc-8ccc-cccccccccccc;dddddddd-dddd-4ddd-8ddd-dddddddddddd;88;80;2026-10-25
+MATCH;33333333-3333-4333-8333-333333333333;;aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa;cccccccc-cccc-4ccc-8ccc-cccccccccccc;90;89;2026-10-26
+MATCH;44444444-4444-4444-8444-444444444444;;bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb;dddddddd-dddd-4ddd-8ddd-dddddddddddd;94;79;2026-10-27
+MATCH;55555555-5555-4555-8555-555555555555;;aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa;dddddddd-dddd-4ddd-8ddd-dddddddddddd;101;99;2026-10-28
