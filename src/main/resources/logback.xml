@@ -10,7 +10,7 @@
             <charset>UTF-8</charset>
         </encoder>
     </appender>
-    <!-- Logging to a file keeps the interactive console clean. -->
+
     <root level="INFO">
         <appender-ref ref="FILE"/>
     </root>
